@@ -1,4 +1,4 @@
-﻿#include "game_funs.h"
+﻿#include "user_interactions.h"
 
 int main() {   
     struct GAME_DATA game_data;
