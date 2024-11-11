@@ -1,2 +1,6 @@
 .vscode
 game.exe
+src/main.o 
+src/logic.o 
+src/outp_functions.o 
+src/user_interaction.o

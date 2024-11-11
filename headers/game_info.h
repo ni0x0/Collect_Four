@@ -1,4 +1,4 @@
-#ifndef GAME_INFO_H  // Проверяем, был ли уже определён макрос
+#ifndef GAME_INFO_H 
 #define GAME_INFO_H
 
 #include <stdio.h>
